@@ -1,5 +1,6 @@
 # Title - <type>(<scope>): <subject> |---------->|
 
+
 # Body |----------Try To Limit Each Line to a Maximum Of 80 Characters-------->|
 
 
@@ -33,8 +34,3 @@
 # [Footer]
 # Use this section to add any PR/Ticket numbers that this
 # commit is solving or any co-authors. If none of these apply, # leave it empty.
-# 
-#
-#
-#
-#
